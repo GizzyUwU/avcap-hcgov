@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(32deg, #c888a0, #401560);
+    background-attachment: fixed;
+}
+
+#root {
+    flex: 1;
+}
+
+.active {
+    opacity: 1;
+}
