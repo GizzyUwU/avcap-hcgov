@@ -292,9 +292,15 @@ const App: Component = () => {
               </span>
             </div>
             <div class="w-48 h-48 rounded-sm bg-black/50 flex flex-col items-center justify-center relative">
-              <img class="h-32 rounded-full" src="https://ca.slack-edge.com/T0266FRGM-U08QPA3G9AA-ce2c9a3adc45-512" alt="Adrian's PFP" />
+              <img class="h-32 rounded-full" src="https://ca.slack-edge.com/T0266FRGM-U08QPA3G9AA-ce2c9a3adc45-512" alt="Popbytes's PFP" />
               <span class="text-white text-center text-xl font-bold">
                 Popbytes
+              </span>
+            </div>
+            <div class="w-48 h-48 rounded-sm bg-black/50 flex flex-col items-center justify-center relative">
+              <img class="h-32 rounded-full" src="https://ca.slack-edge.com/T0266FRGM-U08NXJL86KT-325f8f9f4f9b-512" alt="Frog's PFP" />
+              <span class="text-white text-center text-xl font-bold">
+                Frog
               </span>
             </div>
           </div>
