@@ -269,7 +269,7 @@ const App: Component = () => {
       </section>
       <section id="members" class="min-h-screen w-full duration-700 ease-in-out">
         <p class="text-6xl text-white text-center pt-20 font-lilita">
-          Current AVCAP Member's
+          Current AVCAP Members
         </p>
         <div class="flex justify-center mt-10">
           <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 justify-center">
