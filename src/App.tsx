@@ -86,7 +86,7 @@ const App: Component = () => {
         <p class="text-center text-white font-sans text-xl pt-4">
           Vote AVCAP this upcoming election
           <br />
-          Voting starts between 14th to the 16th of November 2025
+          Voting starts on the 14th to the 16th of November 2025
           <br />
           <a href="https://hackclub.slack.com/archives/C08FA68NV2T"><u>#parliament</u></a> in Hack Club Slack
         </p>
@@ -131,7 +131,7 @@ const App: Component = () => {
                 Hack Clubbers First
               </span>
               <span class="details text-white text-center text-base font-normal absolute transition-opacity duration-200 opacity-0 group-hover:opacity-100 flex items-center justify-center p-2 whitespace-normal">
-                This party prioritzes the Hack Club Community first and bases all its policies around the community to better it.
+                This party prioritizes the Hack Club Community first, and bases all its policies around the community to better it.
               </span>
             </div>
             <div class="w-48 h-48 rounded-sm bg-black/50 flex items-center justify-center relative group overflow-hidden"
@@ -142,7 +142,7 @@ const App: Component = () => {
                 Opinions on PHP
               </span>
               <span class="details text-white text-center text-sm font-normal absolute transition-opacity duration-200 opacity-0 group-hover:opacity-100 flex items-center justify-center p-2 whitespace-normal">
-                This party doesn't like the idea of PHP and will try make legislation against it although if PHP gets better in the future this may change.
+                This party doesn't like the idea of PHP and will work to make legislation against it, although if PHP improves in the future, this may change.
               </span>
             </div>
             <div class="w-48 h-48 rounded-sm bg-black/50 flex items-center justify-center relative group overflow-hidden"
@@ -155,7 +155,7 @@ const App: Component = () => {
                 Vibe-Coding
               </span>
               <span class="details text-white text-center text-base font-normal absolute transition-opacity duration-200 opacity-0 group-hover:opacity-100 flex items-center justify-center p-2 whitespace-normal">
-                Vibe-Coding isn't your code. Simple as that it's an AI's code not your's. Like AI Art isn't your art it is been trained on other's arts.
+                Vibe-Coding isn't your code. Simple as that it's an AI's code, not yours. Like AI Art isn't your art, as it has been trained on others' art.
               </span>
             </div>
             <div class="w-48 h-48 rounded-sm bg-black/50 flex items-center justify-center relative group overflow-hidden"
@@ -166,7 +166,7 @@ const App: Component = () => {
                 Resources
               </span>
               <span class="details text-white text-center text-sm font-normal absolute transition-opacity duration-200 opacity-0 group-hover:opacity-100 flex items-center justify-center p-2 whitespace-normal">
-                This party belives in giving free resources to help other's improve. Health care, Hack Club Workshops or Free Education everyone has a right to it and should have it free.
+                This party believes in giving free resources to help others improve. Health care, Hack Club Workshops, and Free Education are examples of rights that everyone deserves to have free of charge, no matter who they are or what situation they may be in. 
               </span>
             </div>
             <div class="w-48 h-48 rounded-sm bg-black/50 flex items-center justify-center relative group overflow-hidden"
@@ -177,7 +177,7 @@ const App: Component = () => {
                 Democracy
               </span>
               <span class="details text-white text-center text-sm font-normal absolute transition-opacity duration-200 opacity-0 group-hover:opacity-100 flex items-center justify-center p-2 whitespace-normal">
-                This party supports democracy this why we ensure if we have enough seats all our members will get atleast one and maybe more if there is enough seats.
+                This party supports democracy this why we ensure that if we have enough seats, all our members will get at least one and maybe more if there are enough seats.
               </span>
             </div>
           </div>
@@ -254,7 +254,7 @@ const App: Component = () => {
               <span class="text-white text-center text-sm font-bold transition-opacity duration-200 opacity-100">
                 "accidentally drops nuke on the parliament building"
                 <br />
-                AsterTheSilly (tone tags please) leader of
+                AsterTheSilly (tone tags please), leader of
                 <br />
                 :3 Party
               </span>
@@ -262,9 +262,9 @@ const App: Component = () => {
           </div>
         </div>
         <p class="text-center text-white font-sans text-xl pt-4 p-2">
-          We don't have much of the actions committed above nor is there as much said about us like said above.
+          We don't have many of the actions committed above, nor is there as much said about us, similar to what's said above.
           <br />
-          Vote AVCAP this Election for a better parliament.
+          Vote for AVCAP this Election for a better future.
         </p>
       </section>
       <section id="members" class="min-h-screen w-full duration-700 ease-in-out">
